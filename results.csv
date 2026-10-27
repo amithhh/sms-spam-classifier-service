@@ -1,0 +1,5 @@
+model,precision,recall,f1,roc_auc
+Baseline (always ham),0.0,0.0,0.0,0.5
+Naive Bayes,0.9669,0.8931,0.9286,0.9902
+Logistic Regression,0.916,0.916,0.916,0.99
+Linear SVM (calibrated),0.9375,0.916,0.9266,0.9913
